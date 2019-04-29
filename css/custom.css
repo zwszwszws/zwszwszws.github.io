@@ -122,7 +122,7 @@ img.grayscale:hover {
   .example-grid .columns {
     margin-bottom: 1.5rem; }
   .docs-section {
-    padding: 4rem 0; }
+    padding: 8rem 4rem 0 0; }
   .example-send-yourself-copy {
     float: right;
     margin-top: 12px; }
